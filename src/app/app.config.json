@@ -1,0 +1,15 @@
+{
+	"appname": "magicjack-admin",
+	"scope": "FullAccess",
+	"clientid": "A63C318E-054E-40BC-A49F-3E305007803A",
+	"buyerid": "general",
+	"catalogid": "general",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
